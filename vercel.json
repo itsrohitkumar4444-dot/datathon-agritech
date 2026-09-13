@@ -1,0 +1,9 @@
+{
+    "rewrites":
+    [
+        {
+            "source": "/",
+            "destination": "/mandi_intelligence_dashboard.html"
+        }
+    ]
+}
